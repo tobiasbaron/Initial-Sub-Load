@@ -1,4 +1,4 @@
-###What you need to do
+### What you need to do
 To correctly integrate the solution, follow these simple steps:
 
 1.) Paste the following code into the JavaScript portion of your creative. This code is minimized to be as lightweight as possible. You will find a readable form at the end of this document.
